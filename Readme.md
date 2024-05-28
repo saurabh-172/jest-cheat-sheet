@@ -6,6 +6,11 @@
 
 </div>
 
+## link to jest cheat sheet site for me (Private)
+[devhints jest cheat sheets](https://devhints.io/jest)
+
+---
+
 _I recommend [Mrm](https://github.com/sapegin/mrm/tree/master/packages/mrm-task-jest) and [jest-codemods](https://github.com/skovhus/jest-codemods) for single-command Jest installation and easy migration from other frameworks._
 
 <!-- To reformat run: npx prettier --print-width 100 --single-quote --no-semi --prose-wrap never --write Readme.md -->
