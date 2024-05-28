@@ -6,7 +6,7 @@
 
 </div>
 
-## link to jest cheat sheet site for me (Private)
+## link to jest cheat sheet site (Private for myself saurabh)
 [devhints jest cheat sheets](https://devhints.io/jest)
 
 ---
